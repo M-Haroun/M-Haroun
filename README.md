@@ -12,7 +12,7 @@
 </p> 
 
 - 🏢 I'm a Teacher Assistant at Sohag University and Software Engineer.
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 As a student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Physics, Python, C++ and Arduino.
 <!--
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
