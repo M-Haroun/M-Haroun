@@ -8,7 +8,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Teacher-Assistant%20and%20Sofware%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=540&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Assistant-Lecturer%20and%20Sofware%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=540&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
 - 🏢 I'm a Teacher Assistant at Sohag University and Software Engineer.
