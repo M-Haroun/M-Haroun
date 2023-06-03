@@ -18,11 +18,13 @@
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 - 👨‍💻 Check out my portfolio at https://yousef-dergham.netlify.app/ to see some of the projects I've worked on.
 -->
+<img align='right' alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/mahmoud-haroun-541943176/" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Haroun-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/mahmoudharoun2" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Haroun-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
