@@ -22,7 +22,7 @@ Overall, my diverse experiences as an assistant lecturer, software engineer, res
 - 🏢 I'm a Assistant Lecturer at Sohag University and Software Engineer.
 - 👨‍💻 As a student, I'm constantly learning and exploring new technologies to improve my skills.
 -->
-- 💬 Ask me about my experience with Physics, Python, C++ and microcontroller like Arduino or nodeMCU.
+- 💬 Ask me about my experience with physics, python, C++ and microcontroller (Arduino - NodeMCU).
 <!--
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 - 👨‍💻 Check out my portfolio at https://yousef-dergham.netlify.app/ to see some of the projects I've worked on.
