@@ -12,16 +12,11 @@
 </p> 
 
 ## 🚀 About Me
-As an assistant lecturer at the physics department in Sohag University, I have been teaching courses related to physics and software engineering. Additionally, my experience as a software engineer has allowed me to work on various projects that involve developing innovative solutions using technology.
+As an educator, I am passionate about inspiring and guiding students to achieve their full potential. I strive to create a positive learning environment that fosters creativity, critical thinking, and problem-solving skills. My goal is to equip my students with the knowledge and skills they need to succeed in their future careers.
 
-One of the most notable projects that I have worked on is the development of a smart robot that can detect radioactive contamination and measure radiation doses. This project was honored by his excellency the President of the republic, Abdel Fattah El-Sisi, and we won the 1st place at (ISEIC′23). The project consists of a radiation detector, a radiation alarm, and a smart robot that can navigate through contaminated areas and provide real-time data about radiation levels.
+In addition to my teaching and research activities, I am also involved in community service projects. I believe that giving back to society is an essential part of being a responsible citizen. Through my volunteer work, I have had the opportunity to make a positive impact on the lives of others and contribute to the development of my community.
 
-Another project that I have worked on is the development of a smart talking calculator for blinds. This calculator takes inputs with Braille numbers and gives outputs as voice, making it easier for visually impaired individuals to perform calculations.
-
-In addition to these projects, I have also worked on developing a smart eye identifier. This is a monitoring system that can record the attendance and departure of students and employees, with the ability to send warnings to those who exceed permitted absence rates.
-
-Finally, as part of my ITI diploma graduation project, I developed a website using WordPress called Visit Sohag. This website aims to promote tourism in Sohag by providing information about tourist attractions in the city.
-
+Overall, my diverse experiences as an assistant lecturer, software engineer, researcher, and community volunteer have shaped me into a well-rounded individual who is committed to making a difference in the world.
 
 <!-- 
 - 🏢 I'm a Assistant Lecturer at Sohag University and Software Engineer.
