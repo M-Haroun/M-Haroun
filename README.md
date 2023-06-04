@@ -11,8 +11,22 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Assistant-Lecturer%20and%20Sofware%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=540&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
+## 🚀 About Me
+As an assistant lecturer at the physics department in Sohag University, I have been teaching courses related to physics and software engineering. Additionally, my experience as a software engineer has allowed me to work on various projects that involve developing innovative solutions using technology.
+
+One of the most notable projects that I have worked on is the development of a smart robot that can detect radioactive contamination and measure radiation doses. This project was honored by his excellency the President of the republic, Abdel Fattah El-Sisi, and we won the 1st place at (ISEIC′23). The project consists of a radiation detector, a radiation alarm, and a smart robot that can navigate through contaminated areas and provide real-time data about radiation levels.
+
+Another project that I have worked on is the development of a smart talking calculator for blinds. This calculator takes inputs with Braille numbers and gives outputs as voice, making it easier for visually impaired individuals to perform calculations.
+
+In addition to these projects, I have also worked on developing a smart eye identifier. This is a monitoring system that can record the attendance and departure of students and employees, with the ability to send warnings to those who exceed permitted absence rates.
+
+Finally, as part of my ITI diploma graduation project, I developed a website using WordPress called Visit Sohag. This website aims to promote tourism in Sohag by providing information about tourist attractions in the city.
+
+
+<!-- 
 - 🏢 I'm a Assistant Lecturer at Sohag University and Software Engineer.
 - 👨‍💻 As a student, I'm constantly learning and exploring new technologies to improve my skills.
+-->
 - 💬 Ask me about my experience with Physics, Python, C++ and Arduino.
 <!--
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
